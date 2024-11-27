@@ -44,8 +44,10 @@ make sure the version of pc compateble with chromedrivare
 2)download ollama:- needed to downloaded for using big data processing AI modules   ---> : https://ollama.com/
 
 3)after downoading ollama specify the module and download
-go to cmd and type  ```bash
+go to cmd and type 
+```bash
 ollama pull llama3.1
+
 
 ```bash
 git clone https://github.com/your-username/web-scraping-ai.git
