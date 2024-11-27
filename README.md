@@ -46,6 +46,8 @@ make sure the version of pc compateble with chromedrivare
 3)after downoading ollama specify the module and download
 go to cmd and type 
 
+4)use bright data api for automatic captcha solver-->  https://brdta.com/techwithtim_ai
+
 ```bash
 ollama pull llama3.1
 ```
