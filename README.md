@@ -38,8 +38,17 @@ Whether you're scraping product data, market analysis, or news articles, this pr
 
 To get started with this web scraping tool, follow these steps:
 
+1)download chromedriver:- used to open any website by chrome browser --> https://googlechromelabs.github.io/chrome-for-testing/#stable
+make sure the version of pc compateble with chromedrivare
+
+2)download ollama:- needed to downloaded for using big data processing AI modules   ---> : https://ollama.com/
+
+3)after downoading ollama specify the module and download
+go to cmd and type  ```bash
+ollama pull llama3.1
+
 ```bash
 git clone https://github.com/your-username/web-scraping-ai.git
-cd web-scraping-ai
+cd AI_web_info
 pip install -r requirements.txt
 streamlit run main.py
