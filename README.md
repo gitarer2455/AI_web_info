@@ -53,7 +53,7 @@ go to cmd and type
 ollama pull llama3.1
 ```
 
-activate the project
+activating the project
 
 ```bash
 git clone https://github.com/your-username/web-scraping-ai.git
