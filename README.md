@@ -41,12 +41,13 @@ To get started with this web scraping tool, follow these steps:
 1)download chromedriver:- used to open any website by chrome browser --> https://googlechromelabs.github.io/chrome-for-testing/#stable
 make sure the version of pc compateble with chromedrivare
 
-2)download ollama:- needed to downloaded for using big data processing AI modules   ---> : https://ollama.com/
+2)use bright data api for automatic captcha solver-->  https://brdta.com/
 
-3)after downoading ollama specify the module and download
+3)download ollama:- needed to downloaded for using big data processing AI modules   ---> : https://ollama.com/
+
+4)after downoading ollama specify the module and download
 go to cmd and type 
 
-4)use bright data api for automatic captcha solver-->  https://brdta.com/
 
 ```bash
 ollama pull llama3.1
